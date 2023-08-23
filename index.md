@@ -4,7 +4,7 @@ title: Student Blog
 ---
 
 
-# The Website
+
 
 
 ## About Me
