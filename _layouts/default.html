@@ -39,6 +39,7 @@
         </span>
       </header>
       
+
       
 
       {% if site.show_downloads %}
@@ -61,7 +62,9 @@
       <section id="main_content">
         {{ content }}
         <h3>      {%- include header.html -%}
-        <p style="width:300px; height:auto; padding:15px"></p></p> 
+        <p style="width:300px; height:auto; padding:20px"></p>
+        {%- include carousel.html -%}
+        
       </section>
 
       <footer>
