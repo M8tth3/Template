@@ -8,7 +8,7 @@ title: Student Blog
 
 
 ## **About Me**
-![K](images/ketchupAndRice.jpg)
+![K](images/ketchupAndRice.png)
 Hello I'm Matthew Wakayama, and I am 15 years old. I go to [Del Norte High School](https://delnorte.powayusd.com/). I am currently taking Honors Humanities, Ap Chemistry, Ap Computer Science, and Ap Calculus. Outside of school I swim for a club called [Pacific Swim](https://pacificswim.com/)
 ![](images/spam.jpg)
 
