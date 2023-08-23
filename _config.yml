@@ -5,7 +5,7 @@ github_username: nighthawkcoders
 baseurl: "/student"
 
 
-remote_theme: benbalter/jekyll-remote-theme
+remote_theme: pages-themes/merlot@v0.2.0
 
 #remote_theme: pages-themes/midnight@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
